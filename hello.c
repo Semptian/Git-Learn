@@ -1,3 +1,8 @@
+/*
+ *	Git is a distributed version control system.
+ *	Git is free software.
+ */
+
 #include <linux/module.h>
 #include <linux/init.h>
 #include <linux/kernel.h>
