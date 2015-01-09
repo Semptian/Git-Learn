@@ -4,7 +4,7 @@
  *	Git tracks changes.
  *	Git tracks changes of file.
  *	Modify for test.
- *	Creating a new branch dev & feature1.
+ *	Creating a new branch dev and feature1.
  */
 
 #include <linux/module.h>
